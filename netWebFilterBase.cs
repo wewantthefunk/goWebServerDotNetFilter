@@ -78,14 +78,23 @@ namespace netWebFilter
             bool result = true;
 
             string pluginModule = RequestedPage + ".dll";
-            Assembly asm = Assembly.LoadFile(Environment.CurrentDirectory + pluginModule);
+            try
+            {
+                Assembly asm = Assembly.LoadFile(Environment.CurrentDirectory + pluginModule);
 
-            INetCodeBehind ch = asm.GetTypes()[0].InvokeMember(null,
-                                            BindingFlags.CreateInstance,
-                                            null, null, null) as INetCodeBehind;
+                INetCodeBehind ch = asm.GetTypes()[0].InvokeMember(null,
+                                                BindingFlags.CreateInstance,
+                                                null, null, null) as INetCodeBehind;
 
-            ch.ProcessPostBack(Args, this);
-            ch.DoPostBack();
+                ch.ProcessPostBack(Args, this);
+                ch.DoPostBack();
+            }
+            catch (Exception e)
+            {
+                Log l = new Log();
+                l.Write(e.ToString());
+                l.Write(Environment.CurrentDirectory);
+            }
             
             return result;
         }

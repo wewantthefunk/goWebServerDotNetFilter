@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 
@@ -60,5 +61,17 @@ namespace netWebFilterGlobal
 
         public string Arg { get; private set; }
         public string Value { get; private set; }
+    }
+
+    public class Log
+    {
+        public void Write(string message)
+        {
+            using (StreamWriter w = File.AppendText("errors.txt"))
+            {
+                w.Write(DateTime.Now.ToShortDateString() + " " + DateTime.Now.ToShortTimeString() + " ");
+                w.WriteLine(message);
+            }
+        }
     }
 }
