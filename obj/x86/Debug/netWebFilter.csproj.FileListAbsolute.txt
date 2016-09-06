@@ -1,0 +1,16 @@
+C:\Go\projects\netWebFilter\bin\Debug\netWebFilter.exe
+C:\Go\projects\netWebFilter\bin\Debug\netWebFilter.pdb
+C:\Go\projects\netWebFilter\bin\Debug\netWebFilterGlobal.dll
+C:\Go\projects\netWebFilter\bin\Debug\netWebFilterGlobal.pdb
+C:\Go\projects\netWebFilter\obj\x86\Debug\netWebFilter.csprojResolveAssemblyReference.cache
+C:\Go\projects\netWebFilter\obj\x86\Debug\netWebFilter.exe
+C:\Go\projects\netWebFilter\obj\x86\Debug\netWebFilter.pdb
+C:\Go\projects\netWebFilter\bin\Debug\netWebFilter.exe.config
+D:\OneDrive\Go Projects\netWebFilterGo\bin\Debug\netWebFilter.exe.config
+D:\OneDrive\Go Projects\netWebFilterGo\obj\x86\Debug\netWebFilter.exe
+D:\OneDrive\Go Projects\netWebFilterGo\obj\x86\Debug\netWebFilter.pdb
+D:\OneDrive\Go Projects\netWebFilterGo\bin\Debug\netWebFilter.exe
+D:\OneDrive\Go Projects\netWebFilterGo\bin\Debug\netWebFilter.pdb
+D:\OneDrive\Go Projects\netWebFilterGo\bin\Debug\netWebFilterGlobal.dll
+D:\OneDrive\Go Projects\netWebFilterGo\bin\Debug\netWebFilterGlobal.pdb
+D:\OneDrive\Go Projects\netWebFilterGo\obj\x86\Debug\netWebFilter.csprojResolveAssemblyReference.cache

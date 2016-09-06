@@ -1,0 +1,9 @@
+C:\Go\projects\netWebFilter\DirectoryRead\bin\Release\netWebFilter.exe
+C:\Go\projects\netWebFilter\DirectoryRead\bin\Release\netWebFilterGlobal.dll
+C:\Go\projects\netWebFilter\DirectoryRead\bin\Release\netWebFilter.pdb
+C:\Go\projects\netWebFilter\DirectoryRead\bin\Release\netWebFilterGlobal.pdb
+C:\Go\projects\netWebFilter\DirectoryRead\obj\Release\DirectoryRead.csprojResolveAssemblyReference.cache
+C:\Go\projects\netWebFilter\DirectoryRead\bin\Release\DirectoryRead.netf.p.dll
+C:\Go\projects\netWebFilter\DirectoryRead\bin\Release\DirectoryRead.netf.p.pdb
+C:\Go\projects\netWebFilter\DirectoryRead\obj\Release\DirectoryRead.netf.p.dll
+C:\Go\projects\netWebFilter\DirectoryRead\obj\Release\DirectoryRead.netf.p.pdb

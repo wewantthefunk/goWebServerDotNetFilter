@@ -1,0 +1,5 @@
+C:\Go\projects\netWebFilter\bin\Debug\test.netf.p.dll
+C:\Go\projects\netWebFilter\bin\Debug\test.netf.p.pdb
+C:\Go\projects\netWebFilter\netFilterTest\obj\Release\netFilterTest.csprojResolveAssemblyReference.cache
+C:\Go\projects\netWebFilter\netFilterTest\obj\Release\test.netf.p.dll
+C:\Go\projects\netWebFilter\netFilterTest\obj\Release\test.netf.p.pdb

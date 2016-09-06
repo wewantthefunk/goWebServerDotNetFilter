@@ -1,0 +1,8 @@
+C:\Go\projects\netWebFilter\bin\Release\netWebFilter.exe
+C:\Go\projects\netWebFilter\bin\Release\netWebFilter.pdb
+C:\Go\projects\netWebFilter\bin\Release\netWebFilterGlobal.dll
+C:\Go\projects\netWebFilter\bin\Release\netWebFilterGlobal.pdb
+C:\Go\projects\netWebFilter\obj\x86\Release\netWebFilter.csprojResolveAssemblyReference.cache
+C:\Go\projects\netWebFilter\obj\x86\Release\netWebFilter.exe
+C:\Go\projects\netWebFilter\obj\x86\Release\netWebFilter.pdb
+C:\Go\projects\netWebFilter\bin\Release\netWebFilter.exe.config

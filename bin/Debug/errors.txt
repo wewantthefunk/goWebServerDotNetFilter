@@ -1,0 +1,98 @@
+4/25/2016 11:00 AM System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at DirectoryRead.DirectoryReadClass.DoPostBack() in C:\Go\projects\netWebFilter\DirectoryRead\DirectoryReadClass.cs:line 18
+   at netWebFilter.NetWebFilterBase.ProcessPostBack() in C:\Go\projects\netWebFilter\netWebFilterBase.cs:line 90
+4/25/2016 11:00 AM C:\Go\projects\netWebFilter\bin\Debug
+4/25/2016 11:01 AM System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at DirectoryRead.DirectoryReadClass.DoPostBack() in C:\Go\projects\netWebFilter\DirectoryRead\DirectoryReadClass.cs:line 18
+   at netWebFilter.NetWebFilterBase.ProcessPostBack() in C:\Go\projects\netWebFilter\netWebFilterBase.cs:line 90
+4/25/2016 11:01 AM C:\Go\projects\netWebFilter\bin\Debug
+4/25/2016 11:02 AM System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at DirectoryRead.DirectoryReadClass.DoPostBack() in C:\Go\projects\netWebFilter\DirectoryRead\DirectoryReadClass.cs:line 18
+   at netWebFilter.NetWebFilterBase.ProcessPostBack() in C:\Go\projects\netWebFilter\netWebFilterBase.cs:line 90
+4/25/2016 11:02 AM C:\Go\projects\netWebFilter\bin\Debug
+4/25/2016 11:05 AM System.ArgumentException: The UNC path should be of the form \\server\share.
+   at System.IO.Path.NormalizePathFast(String path, Boolean fullCheck)
+   at System.IO.Path.NormalizePath(String path, Boolean fullCheck)
+   at System.IO.Path.GetFullPathInternal(String path)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetDirectories(String path, String searchPattern, SearchOption searchOption)
+   at System.IO.Directory.GetDirectories(String path)
+   at DirectoryRead.DirectoryReadClass.GetRandomSong(List`1 songs, String path) in C:\Go\projects\netWebFilter\DirectoryRead\DirectoryReadClass.cs:line 113
+   at DirectoryRead.DirectoryReadClass.GetRandomSong(List`1 songs, String path) in C:\Go\projects\netWebFilter\DirectoryRead\DirectoryReadClass.cs:line 128
+   at DirectoryRead.DirectoryReadClass.DoPostBack() in C:\Go\projects\netWebFilter\DirectoryRead\DirectoryReadClass.cs:line 82
+   at netWebFilter.NetWebFilterBase.ProcessPostBack() in C:\Go\projects\netWebFilter\netWebFilterBase.cs:line 90
+4/25/2016 11:05 AM C:\Go\projects\netWebFilter\bin\Debug
+4/25/2016 11:07 AM System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at DirectoryRead.DirectoryReadClass.DoPostBack() in C:\Go\projects\netWebFilter\DirectoryRead\DirectoryReadClass.cs:line 78
+   at netWebFilter.NetWebFilterBase.ProcessPostBack() in C:\Go\projects\netWebFilter\netWebFilterBase.cs:line 90
+4/25/2016 11:07 AM C:\Go\projects\netWebFilter\bin\Debug
+4/25/2016 11:11 AM System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Util.StringExpressionSet.CanonicalizePath(String path, Boolean needFullPath)
+   at System.Security.Util.StringExpressionSet.CreateListFromExpressions(String[] str, Boolean needFullPath)
+   at System.Security.Permissions.FileIOPermission.AddPathList(FileIOPermissionAccess access, AccessControlActions control, String[] pathListOrig, Boolean checkForDuplicates, Boolean needFullPath, Boolean copyPathList)
+   at System.Security.Permissions.FileIOPermission..ctor(FileIOPermissionAccess access, String[] pathList, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetDirectories(String path, String searchPattern, SearchOption searchOption)
+   at System.IO.Directory.GetDirectories(String path)
+   at DirectoryRead.DirectoryReadClass.GetRandomSong(List`1 songs, String path) in C:\Go\projects\netWebFilter\DirectoryRead\DirectoryReadClass.cs:line 113
+   at DirectoryRead.DirectoryReadClass.GetRandomSong(List`1 songs, String path) in C:\Go\projects\netWebFilter\DirectoryRead\DirectoryReadClass.cs:line 128
+   at DirectoryRead.DirectoryReadClass.DoPostBack() in C:\Go\projects\netWebFilter\DirectoryRead\DirectoryReadClass.cs:line 82
+   at netWebFilter.NetWebFilterBase.ProcessPostBack() in C:\Go\projects\netWebFilter\netWebFilterBase.cs:line 90
+4/25/2016 11:11 AM C:\Go\projects\netWebFilter\bin\Debug
+4/25/2016 11:13 AM System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Util.StringExpressionSet.CanonicalizePath(String path, Boolean needFullPath)
+   at System.Security.Util.StringExpressionSet.CreateListFromExpressions(String[] str, Boolean needFullPath)
+   at System.Security.Permissions.FileIOPermission.AddPathList(FileIOPermissionAccess access, AccessControlActions control, String[] pathListOrig, Boolean checkForDuplicates, Boolean needFullPath, Boolean copyPathList)
+   at System.Security.Permissions.FileIOPermission..ctor(FileIOPermissionAccess access, String[] pathList, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetDirectories(String path, String searchPattern, SearchOption searchOption)
+   at System.IO.Directory.GetDirectories(String path)
+   at DirectoryRead.DirectoryReadClass.GetRandomSong(List`1 songs, String path) in C:\Go\projects\netWebFilter\DirectoryRead\DirectoryReadClass.cs:line 113
+   at DirectoryRead.DirectoryReadClass.GetRandomSong(List`1 songs, String path) in C:\Go\projects\netWebFilter\DirectoryRead\DirectoryReadClass.cs:line 128
+   at DirectoryRead.DirectoryReadClass.DoPostBack() in C:\Go\projects\netWebFilter\DirectoryRead\DirectoryReadClass.cs:line 82
+   at netWebFilter.NetWebFilterBase.ProcessPostBack() in C:\Go\projects\netWebFilter\netWebFilterBase.cs:line 90
+4/25/2016 11:13 AM C:\Go\projects\netWebFilter\bin\Debug
+4/25/2016 11:14 AM System.IO.DirectoryNotFoundException: Could not find a part of the path 'L:\My Music'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetDirectories(String path, String searchPattern, SearchOption searchOption)
+   at System.IO.Directory.GetDirectories(String path)
+   at DirectoryRead.DirectoryReadClass.GetRandomSong(List`1 songs, String path) in C:\Go\projects\netWebFilter\DirectoryRead\DirectoryReadClass.cs:line 113
+   at DirectoryRead.DirectoryReadClass.DoPostBack() in C:\Go\projects\netWebFilter\DirectoryRead\DirectoryReadClass.cs:line 82
+   at netWebFilter.NetWebFilterBase.ProcessPostBack() in C:\Go\projects\netWebFilter\netWebFilterBase.cs:line 90
+4/25/2016 11:14 AM C:\Go\projects\netWebFilter\bin\Debug
+4/25/2016 1:01 PM System.ArgumentOutOfRangeException: 'maxValue' must be greater than zero.
+Parameter name: maxValue
+   at System.Random.Next(Int32 maxValue)
+   at DirectoryRead.DirectoryReadClass.GetRandomSong(List`1 songs, String path) in C:\Go\projects\netWebFilter\DirectoryRead\DirectoryReadClass.cs:line 127
+   at DirectoryRead.DirectoryReadClass.GetRandomSong(List`1 songs, String path) in C:\Go\projects\netWebFilter\DirectoryRead\DirectoryReadClass.cs:line 131
+   at DirectoryRead.DirectoryReadClass.GetRandomSong(List`1 songs, String path) in C:\Go\projects\netWebFilter\DirectoryRead\DirectoryReadClass.cs:line 131
+   at DirectoryRead.DirectoryReadClass.DoPostBack() in C:\Go\projects\netWebFilter\DirectoryRead\DirectoryReadClass.cs:line 83
+   at netWebFilter.NetWebFilterBase.ProcessPostBack() in C:\Go\projects\netWebFilter\netWebFilterBase.cs:line 90
+4/25/2016 1:01 PM C:\Go\projects\netWebFilter\bin\Debug
+4/25/2016 1:02 PM System.ArgumentOutOfRangeException: 'maxValue' must be greater than zero.
+Parameter name: maxValue
+   at System.Random.Next(Int32 maxValue)
+   at DirectoryRead.DirectoryReadClass.GetRandomSong(List`1 songs, String path) in C:\Go\projects\netWebFilter\DirectoryRead\DirectoryReadClass.cs:line 127
+   at DirectoryRead.DirectoryReadClass.GetRandomSong(List`1 songs, String path) in C:\Go\projects\netWebFilter\DirectoryRead\DirectoryReadClass.cs:line 131
+   at DirectoryRead.DirectoryReadClass.DoPostBack() in C:\Go\projects\netWebFilter\DirectoryRead\DirectoryReadClass.cs:line 83
+   at netWebFilter.NetWebFilterBase.ProcessPostBack() in C:\Go\projects\netWebFilter\netWebFilterBase.cs:line 90
+4/25/2016 1:02 PM C:\Go\projects\netWebFilter\bin\Debug
+8/28/2016 11:25 PM System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Chris-laptop\OneDrive\Music'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   at System.IO.Directory.GetDirectories(String path, String searchPattern, SearchOption searchOption)
+   at System.IO.Directory.GetDirectories(String path)
+   at DirectoryRead.DirectoryReadClass.DoPostBack() in C:\Go\projects\netWebFilter\DirectoryRead\DirectoryReadClass.cs:line 35
+   at netWebFilter.NetWebFilterBase.ProcessPostBack() in D:\OneDrive\Go Projects\netWebFilterGo\netWebFilterBase.cs:line 90
+8/28/2016 11:25 PM D:\OneDrive\Go Projects\netWebFilterGo\bin\Debug
+8/29/2016 8:04 AM System.ArgumentException: An entry with the same key already exists.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.TreeSet`1.Add(T item)
+   at System.Collections.Generic.SortedDictionary`2.Add(TKey key, TValue value)
+   at DirectoryRead.DirectoryReadClass.DoPostBack() in D:\OneDrive\Go Projects\netWebFilterGo\DirectoryRead\DirectoryReadClass.cs:line 44
+   at netWebFilter.NetWebFilterBase.ProcessPostBack() in D:\OneDrive\Go Projects\netWebFilterGo\netWebFilterBase.cs:line 90
+8/29/2016 8:04 AM D:\OneDrive\Go Projects\netWebFilterGo\bin\Debug

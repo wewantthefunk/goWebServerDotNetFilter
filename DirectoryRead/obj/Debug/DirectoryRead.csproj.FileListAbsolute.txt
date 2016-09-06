@@ -1,0 +1,18 @@
+C:\Go\projects\netWebFilter\DirectoryRead\bin\Debug\netWebFilter.exe
+C:\Go\projects\netWebFilter\DirectoryRead\bin\Debug\netWebFilterGlobal.dll
+C:\Go\projects\netWebFilter\DirectoryRead\bin\Debug\netWebFilter.pdb
+C:\Go\projects\netWebFilter\DirectoryRead\bin\Debug\netWebFilterGlobal.pdb
+C:\Go\projects\netWebFilter\DirectoryRead\obj\Debug\DirectoryRead.csprojResolveAssemblyReference.cache
+C:\Go\projects\netWebFilter\DirectoryRead\bin\Debug\DirectoryRead.netf.p.dll
+C:\Go\projects\netWebFilter\DirectoryRead\bin\Debug\DirectoryRead.netf.p.pdb
+C:\Go\projects\netWebFilter\DirectoryRead\obj\Debug\DirectoryRead.netf.p.dll
+C:\Go\projects\netWebFilter\DirectoryRead\obj\Debug\DirectoryRead.netf.p.pdb
+D:\OneDrive\Go Projects\netWebFilterGo\DirectoryRead\bin\Debug\DirectoryRead.netf.p.dll
+D:\OneDrive\Go Projects\netWebFilterGo\DirectoryRead\bin\Debug\DirectoryRead.netf.p.pdb
+D:\OneDrive\Go Projects\netWebFilterGo\DirectoryRead\bin\Debug\netWebFilter.exe
+D:\OneDrive\Go Projects\netWebFilterGo\DirectoryRead\bin\Debug\netWebFilterGlobal.dll
+D:\OneDrive\Go Projects\netWebFilterGo\DirectoryRead\bin\Debug\netWebFilter.pdb
+D:\OneDrive\Go Projects\netWebFilterGo\DirectoryRead\bin\Debug\netWebFilterGlobal.pdb
+D:\OneDrive\Go Projects\netWebFilterGo\DirectoryRead\obj\Debug\DirectoryRead.csprojResolveAssemblyReference.cache
+D:\OneDrive\Go Projects\netWebFilterGo\DirectoryRead\obj\Debug\DirectoryRead.netf.p.dll
+D:\OneDrive\Go Projects\netWebFilterGo\DirectoryRead\obj\Debug\DirectoryRead.netf.p.pdb

@@ -1,0 +1,14 @@
+C:\Go\projects\netWebFilter\netFilterTest\bin\Debug\test.netf.p.dll
+C:\Go\projects\netWebFilter\netFilterTest\bin\Debug\test.netf.p.pdb
+C:\Go\projects\netWebFilter\netFilterTest\bin\Debug\netWebFilterGlobal.dll
+C:\Go\projects\netWebFilter\netFilterTest\bin\Debug\netWebFilterGlobal.pdb
+C:\Go\projects\netWebFilter\netFilterTest\obj\Debug\test.netf.p.dll
+C:\Go\projects\netWebFilter\netFilterTest\obj\Debug\test.netf.p.pdb
+C:\Go\projects\netWebFilter\netFilterTest\obj\Debug\netFilterTest.csprojResolveAssemblyReference.cache
+D:\OneDrive\Go Projects\netWebFilterGo\netFilterTest\bin\Debug\test.netf.p.dll
+D:\OneDrive\Go Projects\netWebFilterGo\netFilterTest\bin\Debug\test.netf.p.pdb
+D:\OneDrive\Go Projects\netWebFilterGo\netFilterTest\bin\Debug\netWebFilterGlobal.dll
+D:\OneDrive\Go Projects\netWebFilterGo\netFilterTest\bin\Debug\netWebFilterGlobal.pdb
+D:\OneDrive\Go Projects\netWebFilterGo\netFilterTest\obj\Debug\netFilterTest.csprojResolveAssemblyReference.cache
+D:\OneDrive\Go Projects\netWebFilterGo\netFilterTest\obj\Debug\test.netf.p.dll
+D:\OneDrive\Go Projects\netWebFilterGo\netFilterTest\obj\Debug\test.netf.p.pdb

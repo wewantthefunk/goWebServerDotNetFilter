@@ -1,0 +1,5 @@
+C:\Go\projects\netWebFilter\netWebFilterGlobal\bin\Release\netWebFilterGlobal.dll
+C:\Go\projects\netWebFilter\netWebFilterGlobal\bin\Release\netWebFilterGlobal.pdb
+C:\Go\projects\netWebFilter\netWebFilterGlobal\obj\Release\netWebFilterGlobal.dll
+C:\Go\projects\netWebFilter\netWebFilterGlobal\obj\Release\netWebFilterGlobal.pdb
+C:\Go\projects\netWebFilter\netWebFilterGlobal\obj\Release\netWebFilterGlobal.csprojResolveAssemblyReference.cache

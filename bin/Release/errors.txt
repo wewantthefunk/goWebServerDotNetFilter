@@ -1,0 +1,20 @@
+4/25/2016 10:49 AM System.IO.FileNotFoundException: The system cannot find the file specified. (Exception from HRESULT: 0x80070002)
+   at System.Reflection.Assembly.nLoadFile(String path, Evidence evidence)
+   at System.Reflection.Assembly.LoadFile(String path)
+   at netWebFilter.NetWebFilterBase.ProcessPostBack() in C:\Go\projects\netWebFilter\netWebFilterBase.cs:line 83
+4/25/2016 10:49 AM C:\Go\projects\netWebFilter\bin\Release
+4/25/2016 10:51 AM System.IO.FileNotFoundException: The system cannot find the file specified. (Exception from HRESULT: 0x80070002)
+   at System.Reflection.Assembly.nLoadFile(String path, Evidence evidence)
+   at System.Reflection.Assembly.LoadFile(String path)
+   at netWebFilter.NetWebFilterBase.ProcessPostBack() in C:\Go\projects\netWebFilter\netWebFilterBase.cs:line 83
+4/25/2016 10:51 AM C:\Go\projects\netWebFilter\bin\Release
+4/25/2016 10:58 AM System.IO.FileNotFoundException: The system cannot find the file specified. (Exception from HRESULT: 0x80070002)
+   at System.Reflection.Assembly.nLoadFile(String path, Evidence evidence)
+   at System.Reflection.Assembly.LoadFile(String path)
+   at netWebFilter.NetWebFilterBase.ProcessPostBack() in C:\Go\projects\netWebFilter\netWebFilterBase.cs:line 83
+4/25/2016 10:58 AM C:\Go\projects\netWebFilter\bin\Release
+4/25/2016 10:59 AM System.IO.FileNotFoundException: The system cannot find the file specified. (Exception from HRESULT: 0x80070002)
+   at System.Reflection.Assembly.nLoadFile(String path, Evidence evidence)
+   at System.Reflection.Assembly.LoadFile(String path)
+   at netWebFilter.NetWebFilterBase.ProcessPostBack() in C:\Go\projects\netWebFilter\netWebFilterBase.cs:line 83
+4/25/2016 10:59 AM C:\Go\projects\netWebFilter\bin\Release

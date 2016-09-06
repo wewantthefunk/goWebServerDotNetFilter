@@ -1,0 +1,10 @@
+C:\Go\projects\netWebFilter\netWebFilterGlobal\bin\Debug\netWebFilterGlobal.dll
+C:\Go\projects\netWebFilter\netWebFilterGlobal\bin\Debug\netWebFilterGlobal.pdb
+C:\Go\projects\netWebFilter\netWebFilterGlobal\obj\Debug\netWebFilterGlobal.dll
+C:\Go\projects\netWebFilter\netWebFilterGlobal\obj\Debug\netWebFilterGlobal.pdb
+C:\Go\projects\netWebFilter\netWebFilterGlobal\obj\Debug\netWebFilterGlobal.csprojResolveAssemblyReference.cache
+D:\OneDrive\Go Projects\netWebFilterGo\netWebFilterGlobal\bin\Debug\netWebFilterGlobal.dll
+D:\OneDrive\Go Projects\netWebFilterGo\netWebFilterGlobal\bin\Debug\netWebFilterGlobal.pdb
+D:\OneDrive\Go Projects\netWebFilterGo\netWebFilterGlobal\obj\Debug\netWebFilterGlobal.dll
+D:\OneDrive\Go Projects\netWebFilterGo\netWebFilterGlobal\obj\Debug\netWebFilterGlobal.pdb
+D:\OneDrive\Go Projects\netWebFilterGo\netWebFilterGlobal\obj\Debug\netWebFilterGlobal.csprojResolveAssemblyReference.cache
